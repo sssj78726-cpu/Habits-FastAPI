@@ -1,0 +1,19 @@
+body{
+	background-color: #97b5c2;
+}
+
+.parents{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+a{
+	text-decoration: none;
+	color:#97b5c6;
+	transition: 200ms;
+}
+
+a:hover{
+	color:Blue;
+}
